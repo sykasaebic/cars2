@@ -1,1 +1,0 @@
-worker: python history_bot.py
